@@ -6,8 +6,8 @@
 - John T. Comes (1873-1922)
 - Felix Lieftuchter (1882-?)
 - Joyce Kilmer (1886-1918)
-- *Father* Gerard Manley Hopkins ~S.J.~ (1844-1889)
-- John Henry *Cardinal* Newman ~C.O.~ (1801-1890)
+- *Father* Gerard Manley Hopkins (1844-1889)
+- John Henry *Cardinal* Newman (1801-1890)
 - John *Cardinal* Wright (1909-1979)
 ## Places
 - Pittsburgh, PA, USA
