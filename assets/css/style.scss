@@ -9,6 +9,7 @@ $pale-sky: #CCDDE2;
 $parchment: #F5EBE6;
 $amber: #F3A847;
 $light-amber: #FFC473;
+$dark-amber: #D2691E;
 
 // add "!important" if not rendering properly to override Jekyll theme
 body {
@@ -26,4 +27,8 @@ a {
 
 a:hover, a:active {
   color: $light-amber;
+}
+
+a:visited {
+  color: $dark-amber;
 }
