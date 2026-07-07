@@ -1,18 +1,29 @@
 ---
 ---
 @import "{{ site.theme }}";
+
 // color variables
 $soft-brown: #594236;
 $cool-steel: #93A3BC;
 $pale-sky: #CCDDE2;
+$parchment: #F5EBE6;
+$amber: #F3A847;
+$light-amber: #FFC473;
 
+// add "!important" if not rendering properly to override Jekyll theme
 body {
-  background-color: $pale-sky !important;
-  // color: $my-text-color !important;
+  background-color: $pale-sky;
+  color: $parchment;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color: $soft-brown;
+}
+
 a {
-  color: $soft-brown;
+  color: $amber;
 }
-a:hover {
-  color: $soft-brown;
+
+a:hover, a:active {
+  color: $light-amber;
 }
