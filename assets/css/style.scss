@@ -8,8 +8,6 @@ $light-brown: #69544A;
 
 $pale-sky: #CCDDE2;
 
-$amber: #F3A847;
-$light-amber: #FFC473;
 $coral: #F35247;
 
 // add "!important" if not rendering properly to override Jekyll theme
@@ -23,13 +21,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: $amber;
-}
-
-a:hover, a:active {
-  color: $light-amber;
-}
-
-a:visited {
   color: $coral;
 }
