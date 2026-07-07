@@ -1,0 +1,17 @@
+@import "{{ site.theme }}";
+// color variables
+$soft-brown: #594236;
+$cool-steel: #93A3BC;
+$pale-sky: #CCDDE2;
+
+// Overwrite the theme's hardcoded classes:
+body {
+  background-color: $pale-sky !important;
+  color: $my-text-color !important;
+}
+a {
+  color: $soft-brown;
+}
+a:hover {
+  color: $soft-brown;
+}
