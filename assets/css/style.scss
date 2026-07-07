@@ -3,22 +3,23 @@
 @import "{{ site.theme }}";
 
 // color variables
-$soft-brown: #594236;
-$cool-steel: #93A3BC;
+$dark-brown: #47342b;
+$light-brown: #69544A;
+
 $pale-sky: #CCDDE2;
-$parchment: #F5EBE6;
+
 $amber: #F3A847;
 $light-amber: #FFC473;
-$dark-amber: #D2691E;
+$coral: #F35247;
 
 // add "!important" if not rendering properly to override Jekyll theme
 body {
   background-color: $pale-sky;
-  color: $parchment;
+  color: $light-brown;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $soft-brown;
+  color: $dark-brown;
 }
 
 a {
@@ -30,5 +31,5 @@ a:hover, a:active {
 }
 
 a:visited {
-  color: $dark-amber;
+  color: $coral;
 }
