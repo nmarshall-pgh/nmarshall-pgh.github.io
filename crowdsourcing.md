@@ -1,3 +1,9 @@
+---
+title: Crowdsourcing
+layout: template
+filename: crowdsourcing.md
+--- 
+
 # Crowdsourcing
 
 Another broad and recurring area of interest is crowdsourcing and collaborative data. The projects which I have contributed to most significantly are Wikipedia, OpenStreetMaps, Niantic Wayfarer, and MusixMatch. Beyond these, I have contributed to various Fandom wikis and will frequently report bugs when I see them in other pieces of software.
