@@ -34,6 +34,7 @@ I have not much use for a personal website, but one imagines it may prove useful
 - Canon Law
 - Pittsburgh History ★
 - Visual Arts
+- [Crowdsourcing](crowdsourcing.md)
 - Early Modern European History
 - American Ecclesial History
 - Wisdom of Ben Sira
