@@ -61,7 +61,7 @@ Table of Contents:
 - Native
 - Very comfortable giving lectures and presentation to groups.
 - Experienced in developing mentoring relationships and coordinating intake meetings.
-- Editorial support for a [published paper](https://doi.org/10.64749/2160-8172%20&%202160-8164.1435)!
+- Editorial support for a [published paper](https://repository.gonzaga.edu/ijsl/vol19/iss1/11/)!
 
 **French**
 - Beginner «Les roses sont rouges et les violettes sont bleues, et je pense que le français est cool.»
