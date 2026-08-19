@@ -1,4 +1,4 @@
-## Navigation
+Table of Contents:
 1. [Education](#Education) - what I like to read about
 2. [Occupation](#Occupation) - how I pay the bills
 3. [Contribution](#Contribution) - community involvement
