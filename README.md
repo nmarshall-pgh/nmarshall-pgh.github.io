@@ -35,15 +35,15 @@
 **Beatrice Institute**
 - Undergraduate Fellow, August 2022 - May 2025
 
-**CMU Libraries Student Advisory Council**
+**Libraries Student Advisory Council**
 - Member, September 2024 - April 2025
 
-**CMU Catholic Newman Club**
+**Newman Club**
 - President, January 2024 - December 2024
 - Treasurer, January 2023 - December 2023
 - Secretary, January 2022 - December 2022
 
-**CMU Student College**
+**Student College**
 - Quality Control Chair, *briefly*
 
 **St. Paul Cathedral Parish**
