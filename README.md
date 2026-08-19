@@ -1,10 +1,11 @@
+## Navigation
 1. [Education](#Education) - what I like to read about
 2. [Occupation](#Occupation) - how I pay the bills
 3. [Contribution](#Contribution) - community involvement
 4. [Communication](#Communication) - language skills
 5. [Operation](#Operation) - technical skills
 
-# Education
+# Education {#Education}
 **M.A. Theological Studies**
 - January 2026 - Present
 - *Some coursework at University of St. Mary of the Lake*
@@ -15,7 +16,7 @@
 - Additional major in **Social & Political History**
 - Carnegie Mellon University
 
-# Occupation
+# Occupation {#Occupation}
 **Director of Youth & Adult Discipleship**
 - May 2025 - Present
 - Saint Jude Parish, Diocese of Pittsburgh
@@ -28,7 +29,7 @@
 - May 2024 - August 2024
 - Heinz College, Carnegie Mellon University
 
-# Contribution
+# Contribution {#Contribution}
 **Catholic Historical Society of Western Pennsylvania**
 - Student Member, August 2026 - Present
 
@@ -55,16 +56,17 @@
 **St. Paul Cathedral Parish**
 - 8th Grade Catechist, *itinerant*
 
-# Communication
+# Communication {#Communication}
 **English**
 - Native
 - Very comfortable giving lectures and presentation to groups.
 - Experienced in developing mentoring relationships and coordinating intake meetings.
+- Editorial support for a [published paper](https://doi.org/10.64749/2160-8172%20&%202160-8164.1435)!
 
 **French**
 - Beginner «Les roses sont rouges et les violettes sont bleues, et je pense que le français est cool.»
 
-# Operation
+# Operation {#Operation}
 **Inkscape**
 - Particular skills with trace bitmap to create functional digital signatures and printable versions of ink drawings.
 
