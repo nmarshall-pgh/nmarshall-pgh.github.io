@@ -1,6 +1,16 @@
+---
+title: Resumé
+---
+
+[Education](#Education) - what I like to read about
+[Occupation](#Occupation) - how I pay the bills
+[Contribution](#Contribution) - community involvement
+[Communication](#Communication) - language skills
+[Manipulation](#Manipulation) - software skills
+
 # Education
 **M.A. Theological Studies**
-- Started January 2026
+- January 2026 - Present
 - *Some coursework at University of St. Mary of the Lake*
 - Franciscan University of Steubenville
 
@@ -47,7 +57,40 @@
 - Quality Control Chair, *briefly*
 
 **St. Paul Cathedral Parish**
-- 8th Grade Catechist, *itinerant starting in September 2024*
+- 8th Grade Catechist, *itinerant*
+
+# Communication
+**English**
+- Native
+- Very comfortable giving lectures and presentation to groups.
+- Experienced in developing mentoring relationships and coordinating intake meetings.
+
+**French**
+- Beginner «Les roses sont rouges et les violettes sont bleues, et je pense que le français est cool.»
+
+# Manipulation
+**Inkscape**
+- Particular skills with trace bitmap to create functional digital signatures and printable versions of ink drawings.
+
+**Matterport**
+- Created a [digital twin](https://my.matterport.com/show/?m=mquaDwrNknS&play=0&ss=2&sr=1.64,-1.32) of a historic chapel completed in 1954.
+
+**Python**
+- Well enough to do 15-112 without going to office hours? Poorly enough to do 15-112 without going to office hours?
+
+**Word**
+- I would abandon this if Docs were not so useless at complex layouts.
+
+**Google MyMaps**
+- Professional information for this [Diocesan reorganization](https://www.google.com/maps/d/u/0/embed?mid=16S1wl5HiyVSk6lSyVSxI6-RPQ1ZSUJY&ehbc=2E312F) and educational projects like a convoluted [map of where the Apostles died](https://www.google.com/maps/d/u/0/embed?mid=1t7Jlt1DwP8KRWKHbBr_uKUJZclys_pg&ehbc=2E312F).
+
+**Adobe Acrobat**
+- OCR is my friend, and booklet printing is the most valuable tool in this software.
+
+**Excel & Google Sheets**
+- Comfortable with a wide range of weird features and all of the normal ones.
+- Pivot Tables and other features commonly used in financial reporting.
+- GOOGLEFINANCE() at least to a certain point for investment purposes.
 
 ***
 
