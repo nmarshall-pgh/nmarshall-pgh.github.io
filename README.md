@@ -6,7 +6,7 @@ title: Resumé
 [Occupation](#Occupation) - how I pay the bills
 [Contribution](#Contribution) - community involvement
 [Communication](#Communication) - language skills
-[Manipulation](#Manipulation) - software skills
+[Operation](#Operation) - technical skills
 
 # Education
 **M.A. Theological Studies**
@@ -68,7 +68,7 @@ title: Resumé
 **French**
 - Beginner «Les roses sont rouges et les violettes sont bleues, et je pense que le français est cool.»
 
-# Manipulation
+# Operation
 **Inkscape**
 - Particular skills with trace bitmap to create functional digital signatures and printable versions of ink drawings.
 
