@@ -2,26 +2,30 @@
 ---
 @import "{{ site.theme }}";
 
-// color variables
+// color variables for original theming - looked too washed out though :/
 $dark-brown: #47342b;
 $light-brown: #69544A;
-
 $pale-sky: #CCDDE2;
-
 $coral: #F35247;
+
+// new theme as of 8/20/2026
+$parchment: #F5F2EB;
+$ink: #181818;
+$cardinal: #800020;
+$navy: #004080;
 
 // add "!important" if not rendering properly to override Jekyll theme
 body {
-  background-color: $pale-sky;
-  color: $light-brown;
+  background-color: $parchment;
+  color: $ink;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $dark-brown;
+  color: $navy;
 }
 
 a {
-  color: $coral;
+  color: $cardinal;
 }
 
 // remove whitespace between paragraph and ensuing list (from Tnsu KYRK on Stack Overflow)
