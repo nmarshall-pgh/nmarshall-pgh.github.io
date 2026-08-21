@@ -28,11 +28,13 @@ a {
   color: $cardinal;
 }
 
-// remove whitespace between paragraph and ensuing list (from Tnsu KYRK on Stack Overflow)
-p:has(+ ul) {
+// remove space between p and ensuing list (thanks Tnsu KYRK on Stack Overflow)
+p:has(+ ul),
+p:has(+ ol){
   margin-bottom: 0;
 }
 
-p + ul {
+p + ul,
+p + ol{
   margin-top: 0;
 }
