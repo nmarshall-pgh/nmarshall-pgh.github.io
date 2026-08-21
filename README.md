@@ -56,6 +56,10 @@ Table of Contents:
 **St. Paul Cathedral Parish**
 - 8th Grade Catechist, *itinerant*
 
+**Masque**
+- Set Construction, September 2017 - April 2021
+- Light Operator, *Chicago*, *A Chorus Line*, *Guys & Dolls*, etc.
+
 # Communication {#Communication}
 **English**
 - Native
