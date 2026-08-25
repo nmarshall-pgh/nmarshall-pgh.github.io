@@ -1,9 +1,10 @@
-Table of Contents:
-1. [Education](#Education) - what I like to read about
-2. [Occupation](#Occupation) - how I pay the bills
-3. [Contribution](#Contribution) - community involvement
-4. [Communication](#Communication) - language skills
-5. [Operation](#Operation) - technical skills
+| Section | purpose |
+| ------- | ------- |
+| [Education](#Education) | reading and writing |
+| [Occupation](#Occupation) | how I pay the bills |
+| [Contribution](#Contribution) | community involvement |
+| [Communication](#Communication) | language skills |
+| [Operation](#Operation) | technical skills |
 
 # Education {#Education}
 **M.A. Theological Studies**
