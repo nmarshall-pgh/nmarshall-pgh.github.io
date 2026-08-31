@@ -40,6 +40,9 @@
 **Catechetical Guild**
 - Member, February 2025 - Present
 
+**Central Catholic High School**
+- Catechist, November 2025 - April 2026
+
 **Beatrice Institute**
 - Undergraduate Fellow, August 2022 - May 2025
 
@@ -57,7 +60,7 @@
 **St. Paul Cathedral Parish**
 - 8th Grade Catechist, *itinerant*
 
-**Masque**
+**Masque Drama Society**
 - Set Construction, September 2017 - April 2021
 - Light Operator, *Chicago*, *A Chorus Line*, *Guys & Dolls*, etc.
 
