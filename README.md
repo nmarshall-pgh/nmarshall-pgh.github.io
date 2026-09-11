@@ -19,7 +19,7 @@
 
 # Occupation {#Occupation}
 **Director of Youth & Adult Discipleship**
-- May 2025 - Present
+- May 2025 - September 2026
 - Saint Jude Parish, Diocese of Pittsburgh
 
 **Business & Research Services Office Assistant**
