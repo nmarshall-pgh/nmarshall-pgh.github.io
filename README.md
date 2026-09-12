@@ -1,7 +1,7 @@
 | Section | purpose |
 | ------- | ------- |
-| [Education](#Education) | reading and writing |
-| [Occupation](#Occupation) | how I pay the bills |
+| [Education](#Education) | learning things |
+| [Occupation](#Occupation) | doing stuff |
 | [Contribution](#Contribution) | community involvement |
 | [Communication](#Communication) | language skills |
 | [Operation](#Operation) | technical skills |
@@ -18,6 +18,10 @@
 - Carnegie Mellon University
 
 # Occupation {#Occupation}
+**Leave Administrator**
+- (Incoming, start October 2026)
+- Sparrow
+
 **Director of Youth & Adult Discipleship**
 - May 2025 - September 2026
 - Saint Jude Parish, Diocese of Pittsburgh
