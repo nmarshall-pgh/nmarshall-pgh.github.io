@@ -1,10 +1,23 @@
 | Section | purpose |
 | ------- | ------- |
-| [Education](#Education) | learning things |
 | [Occupation](#Occupation) | doing stuff |
+| [Education](#Education) | learning things |
 | [Contribution](#Contribution) | community involvement |
 | [Communication](#Communication) | language skills |
 | [Operation](#Operation) | technical skills |
+
+# Occupation {#Occupation}
+**Leave Administrator I**, Sparrow
+- October 2026 - Present
+
+**Director of Youth & Adult Discipleship**, St. Jude Parish
+- May 2025 - September 2026
+
+**Business & Research Services Office Assistant**, CMU Heinz College
+- December 2021 - July 2025
+
+**Executive Education Intern**, CMU Heinz College
+- May 2024 - August 2024
 
 # Education {#Education}
 **M.A. Theological Studies**
@@ -16,23 +29,6 @@
 - August 2021 - May 2025
 - Additional major in **Social & Political History**
 - Carnegie Mellon University
-
-# Occupation {#Occupation}
-**Leave Administrator**
-- (Incoming, start October 2026)
-- Sparrow
-
-**Director of Youth & Adult Discipleship**
-- May 2025 - September 2026
-- Saint Jude Parish, Diocese of Pittsburgh
-
-**Business & Research Services Office Assistant**
-- December 2021 - July 2025
-- Heinz College, Carnegie Mellon University
-
-**Executive Education Intern**
-- May 2024 - August 2024
-- Heinz College, Carnegie Mellon University
 
 # Contribution {#Contribution}
 **Catholic Historical Society of Western Pennsylvania**
@@ -86,10 +82,7 @@
 - Created a [digital twin](https://my.matterport.com/show/?m=mquaDwrNknS&play=0&ss=2&sr=1.64,-1.32) of a historic chapel completed in 1954.
 
 **Python**
-- Well enough to do 15-112 without going to office hours? Poorly enough to do 15-112 without going to office hours?
-
-**Word**
-- I would abandon this if Docs were not so useless at complex layouts.
+- Well enough to do 15-112 without going to office hours?
 
 **Google MyMaps**
 - Professional information for this [Diocesan reorganization](https://www.google.com/maps/d/u/0/embed?mid=16S1wl5HiyVSk6lSyVSxI6-RPQ1ZSUJY&ehbc=2E312F) and educational projects like a convoluted [map of where the Apostles died](https://www.google.com/maps/d/u/0/embed?mid=1t7Jlt1DwP8KRWKHbBr_uKUJZclys_pg&ehbc=2E312F).
@@ -97,7 +90,7 @@
 **Adobe Acrobat**
 - OCR is my friend, and booklet printing is the most valuable tool in this software.
 
-**Excel & Google Sheets**
+**Excel + Google Sheets**
 - Comfortable with a wide range of weird features and all of the normal ones.
 - Pivot Tables and other features commonly used in financial reporting.
 - GOOGLEFINANCE() at least to a certain point for investment purposes.
