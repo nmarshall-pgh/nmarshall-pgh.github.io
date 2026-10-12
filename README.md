@@ -20,16 +20,13 @@
 - May 2024 - August 2024
 
 # Education {#Education}
-**M.A. Theological Studies**
-- January 2026 - Present
+**M.A. Theological Studies**, Franciscan University of Steubenville
+- In Progress
 - *Some coursework at University of St. Mary of the Lake*
-- Franciscan University of Steubenville
 
-**B.A. Philosophy**
-- August 2021 - May 2025
-- Additional major in **Social & Political History**
-- Carnegie Mellon University
-
+**B.A. Philosophy and Social & Political History**, Carnegie Mellon University
+- Graduated May 2025
+  
 # Contribution {#Contribution}
 **Catholic Historical Society of Western Pennsylvania**
 - Student Member, August 2026 - Present
