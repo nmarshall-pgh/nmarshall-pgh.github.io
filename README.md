@@ -24,7 +24,7 @@
 - In Progress
 - *Some coursework at University of St. Mary of the Lake*
 
-**B.A. Philosophy and Social & Political History**, Carnegie Mellon University
+**B.A. Philosophy; Social & Political History**, Carnegie Mellon University
 - Graduated May 2025
   
 # Contribution {#Contribution}
