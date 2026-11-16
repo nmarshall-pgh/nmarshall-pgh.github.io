@@ -1,7 +1,11 @@
 I. [Occupation](#Occupation) doing stuff
+
 II. [Education](#Education) learning things
+
 III. [Contribution](#Contribution) community involvement
+
 IV. [Communication](#Communication) yapping
+
 V. [Operation](#Operation) technical skills
 
 ***
