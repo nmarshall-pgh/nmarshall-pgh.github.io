@@ -16,8 +16,8 @@ $navy: #004080;
 
 // "Golden Hour" theme from Tobias van Schneider's my mind
 $sungold: #FDB90B;
-$orange: #FF6A34; //from the "Tamed Beast" theme
-$saturatedsky: #8CAECC;
+$burntorange: #9A3412;
+$deepblue: #0A2472;
 $warmbrown: #321913;
 
 // add "!important" if not rendering properly to override Jekyll theme
@@ -27,11 +27,17 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $orange;
+  color: $burntorange;
 }
 
 a {
-  color: $saturatedsky;
+  color: $deepblue;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: $burntorange;
 }
 
 // remove space between p and ensuing list (thanks Tnsu KYRK on Stack Overflow)
