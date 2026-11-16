@@ -1,10 +1,10 @@
-| Section | purpose |
-| ------- | ------- |
-| [Occupation](#Occupation) | doing stuff |
-| [Education](#Education) | learning things |
-| [Contribution](#Contribution) | community involvement |
-| [Communication](#Communication) | language skills |
-| [Operation](#Operation) | technical skills |
+I. [Occupation](#Occupation) doing stuff
+II. [Education](#Education) learning things
+III. [Contribution](#Contribution) community involvement
+IV. [Communication](#Communication) yapping
+V. [Operation](#Operation) technical skills
+
+***
 
 # Occupation {#Occupation}
 **Leave Administrator I**, Sparrow
