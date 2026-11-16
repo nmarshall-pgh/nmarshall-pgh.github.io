@@ -17,7 +17,7 @@ $navy: #004080;
 // "Golden Hour" theme from Tobias van Schneider's my mind
 $sungold: #FDB90B;
 $burntorange: #9A3412;
-$deepblue: #0A2472;
+//reusing navy from above
 $warmbrown: #321913;
 
 // add "!important" if not rendering properly to override Jekyll theme
@@ -33,8 +33,8 @@ h1, h2, h3, h4, h5, h6 {
 a:hover,
 a:focus,
 a:active {
-  color: $deepblue;
-  font-weight: bold;
+  color: $navy;
+  font-weight: 700;
 }
 
 hr {
