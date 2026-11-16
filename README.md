@@ -1,15 +1,3 @@
-I. [Occupation](#Occupation) doing stuff
-
-II. [Education](#Education) learning things
-
-III. [Contribution](#Contribution) community involvement
-
-IV. [Communication](#Communication) yapping
-
-V. [Operation](#Operation) technical skills
-
-***
-
 # Occupation {#Occupation}
 **Leave Administrator I**, Sparrow
 - October 2026 - Present
@@ -23,6 +11,8 @@ V. [Operation](#Operation) technical skills
 **Executive Education Intern**, CMU Heinz College
 - May 2024 - August 2024
 
+***
+
 # Education {#Education}
 **M.A. Theological Studies**, Franciscan University of Steubenville
 - In Progress
@@ -30,6 +20,8 @@ V. [Operation](#Operation) technical skills
 
 **B.A. Philosophy; Social & Political History**, Carnegie Mellon University
 - Graduated May 2025
+
+***
   
 # Contribution {#Contribution}
 **Catholic Historical Society of Western Pennsylvania**
@@ -65,6 +57,8 @@ V. [Operation](#Operation) technical skills
 - Set Construction, September 2017 - April 2021
 - Light Operator, *Chicago*, *A Chorus Line*, *Guys & Dolls*, etc.
 
+***
+
 # Communication {#Communication}
 **English**
 - Native
@@ -74,6 +68,8 @@ V. [Operation](#Operation) technical skills
 
 **French**
 - Beginner «Les roses sont rouges et les violettes sont bleues, et je pense que le français est cool.»
+
+***
 
 # Operation {#Operation}
 **Inkscape**
