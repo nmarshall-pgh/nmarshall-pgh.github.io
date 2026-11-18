@@ -3,44 +3,47 @@
 @import "{{ site.theme }}";
 
 // color variables for original theming - looked too washed out though :/
-$dark-brown: #47342b;
-$light-brown: #69544A;
-$pale-sky: #CCDDE2;
-$coral: #F35247;
+// $dark-brown: #47342b;
+// $light-brown: #69544A;
+// $pale-sky: #CCDDE2;
+// $coral: #F35247;
+// $parchment: #F5F2EB;
+// $ink: #181818;
+// $cardinal: #800020;
+// $navy: #004080;
+$softivory: #FAF5F0;
 
-// new theme as of 8/20/2026
-$parchment: #F5F2EB;
-$ink: #181818;
-$cardinal: #800020;
-$navy: #004080;
-
-// "Golden Hour" theme from Tobias van Schneider's my mind
+// "Golden Hour" codes from Tobias van Schneider's my mind
 $sungold: #FDB90B;
 $burntorange: #9A3412;
-//reusing navy from above
-$warmbrown: #321913;
+// $warmbrown: #321913;
+
+// Easy theme switcher
+$bgColor: $burntorange;
+$txtColor: $softivory;
+$trimColor: $sungold;
 
 // add "!important" if not rendering properly to override Jekyll theme
 body {
-  background-color: $sungold;
-  color: $warmbrown;
+  background-color: $bgColor;
+  color: $txtColor;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $burntorange;
+  color: $trimColor;
 }
 
 a,
 a:hover,
 a:focus,
 a:active {
-  color: $burntorange;
+  color: $trimColor;
 }
 
 hr {
   border: none;
   height: 2px;
-  background-color: $burntorange;
+  background-color: $trimColor;
 }
 
 // remove space between p and ensuing list (thanks Tnsu KYRK on Stack Overflow)
